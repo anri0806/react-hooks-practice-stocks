@@ -17,3 +17,14 @@ h2 {
   margin: 0 auto;
   text-align: center;
 }
+
+
+.col-8 {
+  float: left;
+  margin-right: 50px;
+}
+
+.col-4 {
+  
+  float: left;
+}
